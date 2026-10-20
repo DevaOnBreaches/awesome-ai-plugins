@@ -2860,6 +2860,21 @@
       ]
     },
     {
+      "name": "ConnectMachine",
+      "url": "https://github.com/connectmachine/claude-plugin",
+      "owner": "connectmachine",
+      "repo": "claude-plugin",
+      "description": "Claude Code and Cowork plugin plus remote MCP server for your contacts and digital business cards: find people by how you remember them, save contacts from a conversation, and draft follow-ups",
+      "category": "Tools & Integrations",
+      "source": "awesome-ai-plugins",
+      "install_url": "https://raw.githubusercontent.com/connectmachine/claude-plugin/HEAD/.claude-plugin/plugin.json",
+      "platform": "claude-code",
+      "ecosystems": [
+        "claude-code",
+        "mcp"
+      ]
+    },
+    {
       "name": "CONTAM Tools",
       "url": "https://github.com/summer521521/CONTAM_plugin",
       "owner": "summer521521",
