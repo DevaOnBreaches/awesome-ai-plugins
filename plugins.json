@@ -3,7 +3,7 @@
   "name": "awesome-ai-plugins",
   "version": "1.0.0",
   "last_updated": "2026-10-20",
-  "total": 930,
+  "total": 931,
   "platforms": [
     "codex",
     "grok",
@@ -4405,6 +4405,20 @@
       "platform": "codex",
       "ecosystems": [
         "codex"
+      ]
+    },
+    {
+      "name": "XposedOrNot",
+      "url": "https://github.com/XposedOrNot/XposedOrNot-API",
+      "owner": "XposedOrNot",
+      "repo": "XposedOrNot-API",
+      "description": "MCP server: XposedOrNot data breach lookups for emails and domains, with breach history, a breach catalog and domain exposure counts; remote, read-only, no API key",
+      "category": "Tools & Integrations",
+      "source": "awesome-ai-plugins",
+      "platform": "mcp",
+      "installation_url": "https://github.com/XposedOrNot/XposedOrNot-API#readme",
+      "ecosystems": [
+        "mcp"
       ]
     },
     {

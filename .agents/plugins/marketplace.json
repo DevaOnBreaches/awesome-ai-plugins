@@ -4708,6 +4708,21 @@
       "install_url": "https://raw.githubusercontent.com/Xquik-dev/x-twitter-scraper/HEAD/.codex-plugin/plugin.json"
     },
     {
+      "name": "XposedOrNot",
+      "displayName": "XposedOrNot",
+      "description": "MCP server: XposedOrNot data breach lookups for emails and domains, with breach history, a breach catalog and domain exposure counts; remote, read-only, no API key",
+      "category": "Tools & Integrations",
+      "source": "awesome-ai-plugins",
+      "platform": "mcp",
+      "ecosystems": [
+        "mcp"
+      ],
+      "owner": "XposedOrNot",
+      "repo": "XposedOrNot-API",
+      "url": "https://github.com/XposedOrNot/XposedOrNot-API",
+      "installation_url": "https://github.com/XposedOrNot/XposedOrNot-API#readme"
+    },
+    {
       "name": "Yandex Direct",
       "displayName": "Yandex Direct",
       "description": "GitHub-ready Codex plugin bundle for Yandex Direct, Wordstat, Metrika, and Roistat.",
